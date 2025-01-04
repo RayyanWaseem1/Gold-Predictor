@@ -6,6 +6,8 @@ During times of economic uncertainty and turmoil, owning gold is often looked at
 The question that I sought to answer and discover is what the price of gold would be in the next few years, given past historical data. I wanted to determine if I could predict the price of gold on January 1, 2026, through the use of quantitative data consolidated daily over the last twenty years. The machine learning technique I decided to use to answer this question was time series analysis. I wanted to see if the data’s trends, seasonality, and cyclical nature would help me formulate a numerical prediction for the next year’s gold price. With this prediction, perhaps it could give us insight into how the economy is slated to perform.
 
 ## Repository
+The repository for my project can be found at 
++ https://github.com/RayyanWaseem1/Gold-Predictor/blob/main/GoldPredictionProject.ipynb
 
 ## Dataset
 The dataset that was used in this project was sourced from Kaggle. The modality of the data was largely time series temporal data consisting of multiple features (columns) including the date, the time, the opening price, the highest price during the day, the lowest price during the day, the closing price, and the total volume of gold traded on that particular day. This was again consolidated daily from 2004 to 2024. The sample size for the daily interval dataset was 5205 data points. This data is deemed very important as it gives us a wide scope of all the different aspects that go into gold pricing. We get to see the many fluctuations of pricing from an outsider point of view, which gives us the ability to make more accurate predictions.
